@@ -11,25 +11,14 @@
 I am a full-stack software engineer who loves programming. 
 As a programmer, I like to create all kinds of applications that can help anyone to simplify their life. That obsession with creating applications makes a difference.
 
-
-### Talking a little about me:
-
-    👨🏻‍💻 I'm sure I'm working on something cool right now;
-    🚀 I'm currently learning many courses about BigData;
-    💬 Ask me about anything, I am happy to help via mail: finidicoder@gmail.com;
-    📝 [Resume] ((https://finidicoder.netlify.app/Resume.pdf)).
-
-
-<img align="right" alt="GIF" src="https://github.com/FinidiCoder/FinidiCoder/blob/master/coding.gif?raw=true" width="408" height="318" />
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/FinidiCoder/FinidiCoder/main/coding.gif" width="408" height="318" />
   
 
-**Talking about Personal Stuffs:**
+**Talking a little about me:**
 
-- 👨🏻‍💻 I’m currently working on something cool;
-- 🚀 I’m currently learning Data Structures and Algorithms on [leetcode](https://leetcode.com/GKassym);
-- 💬 Ask me about anything, I am happy to help;
-- 📝 I regulary write articles on [medium](https://gapur-kassym.medium.com);
-- 📫 How to reach me: gapur.kassym@gmail.com;
-- 📝 [Resume](https://gkassym.netlify.app/Resume.pdf).
+- 👨🏻‍💻 I'm sure I'm working on something cool right now;
+- 🚀 I'm currently learning many courses about BigData;
+- 💬 Ask me about anything, I am happy to help via mail: finidicoder@gmail.com;
+- 📝 [Resume](https://finidicoder.netlify.app/Resume.pdf).
 
 </br>

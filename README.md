@@ -7,3 +7,6 @@
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/FinidiCoder)
 
 ### Glad to see you here! &nbsp; ![visitors](https://visitor-badge.glitch.me/badge?page_id=FinidiCoder.FinidiCoder)
+
+I am a full-stack software engineer who loves programming. 
+As a programmer, I like to create all kinds of applications that can help anyone to simplify their life. That obsession with creating applications makes a difference.

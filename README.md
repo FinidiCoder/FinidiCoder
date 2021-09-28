@@ -10,3 +10,11 @@
 
 I am a full-stack software engineer who loves programming. 
 As a programmer, I like to create all kinds of applications that can help anyone to simplify their life. That obsession with creating applications makes a difference.
+
+
+### Talking a little about me:
+
+    👨🏻‍💻 I'm sure I'm working on something cool right now;
+    🚀 I'm currently learning many courses about BigData;
+    💬 Ask me about anything, I am happy to help via mail: finidicoder@gmail.com;
+    📝 [Resume] ((https://finidicoder.netlify.app/Resume.pdf)).

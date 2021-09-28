@@ -13,6 +13,8 @@ As a programmer, I like to create all kinds of applications that can help anyone
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/FinidiCoder/FinidiCoder/main/programmer.gif" width="408" height="318" />
   
+  
+  
 
 **Talking a little about me:**
 

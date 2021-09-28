@@ -18,3 +18,18 @@ As a programmer, I like to create all kinds of applications that can help anyone
     🚀 I'm currently learning many courses about BigData;
     💬 Ask me about anything, I am happy to help via mail: finidicoder@gmail.com;
     📝 [Resume] ((https://finidicoder.netlify.app/Resume.pdf)).
+
+
+<img align="right" alt="GIF" src="https://github.com/FinidiCoder/FinidiCoder/blob/master/coding.gif?raw=true" width="408" height="318" />
+  
+
+**Talking about Personal Stuffs:**
+
+- 👨🏻‍💻 I’m currently working on something cool;
+- 🚀 I’m currently learning Data Structures and Algorithms on [leetcode](https://leetcode.com/GKassym);
+- 💬 Ask me about anything, I am happy to help;
+- 📝 I regulary write articles on [medium](https://gapur-kassym.medium.com);
+- 📫 How to reach me: gapur.kassym@gmail.com;
+- 📝 [Resume](https://gkassym.netlify.app/Resume.pdf).
+
+</br>

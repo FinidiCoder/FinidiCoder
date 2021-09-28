@@ -11,7 +11,7 @@
 I am a full-stack software engineer who loves programming. 
 As a programmer, I like to create all kinds of applications that can help anyone to simplify their life. That obsession with creating applications makes a difference.
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/FinidiCoder/FinidiCoder/main/programmer.gif" width="326" height="254" />
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/FinidiCoder/FinidiCoder/main/programmer.gif" width="260" height="203" />
   
 **Talking a little about me:**
 
@@ -20,6 +20,6 @@ As a programmer, I like to create all kinds of applications that can help anyone
 - 💬 Ask me about anything, I am happy to help via mail: finidicoder@gmail.com;
 - 📝 [Resume](https://finidicoder.netlify.app/Resume.pdf).
 
-</br>
+</br></br>
 
 📊 **This Week I Spent My Time On:**

@@ -21,3 +21,5 @@ As a programmer, I like to create all kinds of applications that can help anyone
 - 📝 [Resume](https://finidicoder.netlify.app/Resume.pdf).
 
 </br>
+
+📊 **This Week I Spent My Time On:**

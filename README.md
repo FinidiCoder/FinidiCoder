@@ -11,14 +11,9 @@
 I am a full-stack software engineer who loves programming. 
 As a programmer, I like to create all kinds of applications that can help anyone to simplify their life. That obsession with creating applications makes a difference.
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/FinidiCoder/FinidiCoder/main/programmer.gif" width="408" height="318" />
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/FinidiCoder/FinidiCoder/main/programmer.gif" width="326" height="254" />
   
-  
-  
-
 **Talking a little about me:**
-
-
 
 - 👨🏻‍💻 I'm sure I'm working on something cool right now;
 - 🚀 I'm currently learning many courses about BigData;
